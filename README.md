@@ -1,4 +1,4 @@
 sms
 ===
 
-php class for sending &amp; receiving sms via a GSM modem
+php class for sending and receiving sms via a GSM modem.
